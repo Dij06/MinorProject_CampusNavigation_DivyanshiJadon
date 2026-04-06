@@ -16,9 +16,9 @@ mongoose.connect("mongodb://127.0.0.1:27017/campus_navigation")
 .then(() => console.log("MongoDB Connected"))
 .catch(err => console.log(err));
 
-// Link the routes to the URLs 
+
 app.use("/api/locations", locationRoutes);
-app.use("/api/search", locationRoutes); // Connects search to the location router
+app.use("/api/search", locationRoutes); 
 app.use("/api/users", userRoutes);
 
 // Test route

@@ -1,4 +1,4 @@
-// ================= USER ONBOARDING =================
+// ================= USER =================
 document.addEventListener("DOMContentLoaded", function() {
     const modal = document.getElementById("welcomeModal");
     const startBtn = document.getElementById("startBtn");
@@ -332,7 +332,7 @@ if (clean !== lastSpokenInstruction) {
 }
     }
 
-    // CLEAR AND UPDATE Place Details
+    // CLEAR Place Details
     const detailsEl = document.getElementById("placeDetails");
     if (detailsEl) {
         detailsEl.innerHTML = `
