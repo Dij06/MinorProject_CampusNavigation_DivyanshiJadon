@@ -55,11 +55,11 @@ Make sure the following are installed on your system:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Dij06/MinorProject_CampusNavigation_DivyanshiJadon.git
 
 2. Navigate to the project directory:
 
-cd your-repo-name
+cd MinorProject_CampusNavigation_DivyanshiJadon
 
 3. Install dependencies:
 
