@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
             if (name && role) {
                 // Send to MongoDB
-                fetch("/api/users", {
+                fetch("http://localhost:7000/api/users", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ name: name, role: role })
@@ -203,7 +203,7 @@ if (navigator.geolocation) {
 }
 
 // ================= FETCH DATA =================
-fetch("/api/locations")
+fetch("http://localhost:7000/api/locations")
   .then(res => res.json())
   .then(data => {
 

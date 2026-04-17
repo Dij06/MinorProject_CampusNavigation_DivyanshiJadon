@@ -1,0 +1,2587 @@
+[{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e824"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Ground Floor",
+  "room": 111,
+  "name": "Cyber Security Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e825"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Ground Floor",
+  "room": 121,
+  "name": "Health Centre",
+  "type": "facility",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e826"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "First Floor",
+  "room": 201,
+  "name": "Network Cell",
+  "type": "office",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e827"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "First Floor",
+  "room": 202,
+  "name": "Data Structure Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e828"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "First Floor",
+  "room": 203,
+  "name": "OOP Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e829"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "First Floor",
+  "room": 208,
+  "name": "Girls Common Room",
+  "type": "facility",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e82a"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Second Floor",
+  "room": 301,
+  "name": "Network Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e82b"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Second Floor",
+  "room": 302,
+  "name": "Web Tech Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e82c"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Second Floor",
+  "room": 305,
+  "name": "Physics Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e82d"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Second Floor",
+  "room": 310,
+  "name": "Exam Room",
+  "type": "facility",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e82e"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Third Floor",
+  "room": 417,
+  "name": "Data Science Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e82f"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Third Floor",
+  "room": 418,
+  "name": "AI Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e830"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Fourth Floor",
+  "room": 505,
+  "name": "Computer Centre",
+  "type": "facility",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e831"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Fourth Floor",
+  "room": 506,
+  "name": "Seminar Hall",
+  "type": "facility",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e832"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Fourth Floor",
+  "room": 512,
+  "name": "DBMS Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e833"
+  },
+  "block": "Mahatma Gandhi Block",
+  "floor": "Fourth Floor",
+  "room": 513,
+  "name": "Software Engineering Lab",
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e834"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Ground Floor",
+  "room": 101,
+  "name": "Fluid Mechanics Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e835"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Ground Floor",
+  "room": 103,
+  "name": "Highway Engineering Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e836"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Ground Floor",
+  "room": 105,
+  "name": "Manufacturing Process Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e837"
+  },
+  "block": "Kirloskar Block",
+  "floor": "First Floor",
+  "room": 201,
+  "name": "Engineering Mechanics Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e838"
+  },
+  "block": "Kirloskar Block",
+  "floor": "First Floor",
+  "room": 202,
+  "name": "NCC Office",
+  "type": "office",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e839"
+  },
+  "block": "Kirloskar Block",
+  "floor": "First Floor",
+  "room": 207,
+  "name": "Auto CAD Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e83a"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Second Floor",
+  "room": 301,
+  "name": "Surveying Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e83b"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Second Floor",
+  "room": 302,
+  "name": "Concrete Technology Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e83c"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Second Floor",
+  "room": 310,
+  "name": "EV & Renewable Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e83d"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Third Floor",
+  "room": 401,
+  "name": "Automobile Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e83e"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Third Floor",
+  "room": 403,
+  "name": "Thermodynamics Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e83f"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Third Floor",
+  "room": 409,
+  "name": "Faculty Room",
+  "type": "office",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e840"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Fourth Floor",
+  "room": 501,
+  "name": "Heat Transfer Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e841"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Fourth Floor",
+  "room": 507,
+  "name": "Fashion Lab",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990aa9c8f165de9b3f0e842"
+  },
+  "block": "Kirloskar Block",
+  "floor": "Fourth Floor",
+  "room": 509,
+  "name": "Interior Studio",
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "6990b2348f165de9b3f0e844"
+  },
+  "name": "Mahatma Gandhi Block",
+  "type": "building",
+  "block": "MG Block",
+  "floor": "All",
+  "latitude": 26.138246,
+  "longitude": 78.207349,
+  "description": "Main academic block"
+},
+{
+  "_id": {
+    "$oid": "6990b5578f165de9b3f0e84a"
+  },
+  "name": "Kirloskar Block",
+  "type": "building",
+  "block": "Kirloskar",
+  "floor": "All",
+  "latitude": 26.138588,
+  "longitude": 78.207631,
+  "description": "Engineering labs block"
+},
+{
+  "_id": {
+    "$oid": "6990b57d8f165de9b3f0e84c"
+  },
+  "name": "JCB Block",
+  "type": "building",
+  "block": "JCB",
+  "floor": "All",
+  "latitude": 26.138131,
+  "longitude": 78.206699,
+  "description": "Admin and T&P offices"
+},
+{
+  "_id": {
+    "$oid": "6990b58e8f165de9b3f0e84e"
+  },
+  "name": "PC Ray Block",
+  "type": "building",
+  "block": "PC Ray",
+  "floor": "All",
+  "latitude": 26.137514,
+  "longitude": 78.207305,
+  "description": "Accounts and administration"
+},
+{
+  "_id": {
+    "$oid": "6990b5a48f165de9b3f0e850"
+  },
+  "name": "Main Canteen",
+  "type": "canteen",
+  "block": "Campus",
+  "floor": "Outdoor",
+  "latitude": 26.139108,
+  "longitude": 78.207101,
+  "description": "Student food area"
+},
+{
+  "_id": {
+    "$oid": "6990b5d18f165de9b3f0e851"
+  },
+  "name": "Nescafe",
+  "type": "canteen",
+  "block": "Campus",
+  "floor": "Outdoor",
+  "latitude": 26.138408,
+  "longitude": 78.207962,
+  "description": "Student food area"
+},
+{
+  "_id": {
+    "$oid": "6990b5f68f165de9b3f0e853"
+  },
+  "name": "Sports Ground",
+  "type": "sports",
+  "block": "Campus",
+  "floor": "Outdoor",
+  "latitude": 26.137587,
+  "longitude": 78.209048,
+  "description": "Outdoor sports area"
+},
+{
+  "_id": {
+    "$oid": "6990b7498f165de9b3f0e85d"
+  },
+  "name": "La Da Vinci Block",
+  "type": "building",
+  "block": "LDV Block",
+  "floor": "All",
+  "latitude": 26.137877,
+  "longitude": 78.208098,
+  "description": "Main academic block"
+},
+{
+  "_id": {
+    "$oid": "69be428e7eac47da953687f8"
+  },
+  "name": "Indoor Sports Arena",
+  "type": "sports",
+  "block": "Sports Complex",
+  "floor": "Ground",
+  "latitude": 26.137379,
+  "longitude": 78.208957,
+  "description": "Indoor sports arena"
+},
+{
+  "_id": {
+    "$oid": "69be43767eac47da953687fa"
+  },
+  "name": "Cricket Ground",
+  "type": "sports",
+  "block": "Sports Complex",
+  "floor": "Ground",
+  "latitude": 26.136617,
+  "longitude": 78.208495,
+  "description": "Outdoor cricket ground with full-size pitch and practice nets"
+},
+{
+  "_id": {
+    "$oid": "69be44147eac47da953687fc"
+  },
+  "name": "Parking Area",
+  "type": "facility",
+  "block": "Transport Area",
+  "floor": "Ground",
+  "latitude": 26.136404,
+  "longitude": 78.209589,
+  "description": "Designated parking area for college buses"
+},
+{
+  "_id": {
+    "$oid": "69be44a97eac47da953687fe"
+  },
+  "name": "Boys Hostel",
+  "type": "hostel",
+  "floor": "All",
+  "latitude": 26.140826,
+  "longitude": 78.207469,
+  "description": "Boys hostel accommodation"
+},
+{
+  "_id": {
+    "$oid": "69be51bb7eac47da95368802"
+  },
+  "name": "Open Water Area",
+  "type": "water_body",
+  "block": "Open Area",
+  "floor": "Ground",
+  "latitude": 26.139636,
+  "longitude": 78.207034,
+  "nickname": "Matcha Lake",
+  "description": "Unidentified water area inside campus (students jokingly call it 'Matcha Lake')"
+},
+{
+  "_id": {
+    "$oid": "69be52647eac47da95368804"
+  },
+  "name": "Seating Area",
+  "type": "facility",
+  "block": "Open Area",
+  "floor": "Ground",
+  "latitude": 26.137823,
+  "longitude": 78.207664,
+  "nickname": "Italian",
+  "description": "Tree-covered sitting area behind LDV, popularly called 'Italian' by students"
+},
+{
+  "_id": {
+    "$oid": "69be53157eac47da95368806"
+  },
+  "name": "Playground",
+  "type": "sports",
+  "block": "Open Area",
+  "floor": "Ground",
+  "latitude": 26.137866,
+  "longitude": 78.20946,
+  "description": "Open playground used for general sports and outdoor activities"
+},
+{
+  "_id": {
+    "$oid": "69be53db7eac47da95368808"
+  },
+  "name": "University Main Gate",
+  "type": "entry",
+  "block": "Entrance",
+  "floor": "Ground",
+  "latitude": 26.137214,
+  "longitude": 78.212573,
+  "description": "Main entrance gate of the university"
+},
+{
+  "_id": {
+    "$oid": "69be554e7eac47da9536880a"
+  },
+  "block": "LDV",
+  "floor": "Ground",
+  "room_name": "Central Library",
+  "type": "library",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69be55707eac47da9536880c"
+  },
+  "block": "LDV",
+  "floor": "First",
+  "room_name": "Library 2",
+  "type": "library",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69be558e7eac47da9536880e"
+  },
+  "block": "LDV",
+  "floor": "First",
+  "room_name": "LDV Canteen",
+  "type": "canteen",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69be563f7eac47da95368810"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Accounts Office",
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69be56507eac47da95368812"
+  },
+  "block": "JCB",
+  "floor": "First",
+  "room_name": "Exam Controller",
+  "type": "admin",
+  "latitude": 26.138131,
+  "longitude": 78.206699
+},
+{
+  "_id": {
+    "$oid": "69be566d7eac47da95368814"
+  },
+  "block": "JCB",
+  "floor": "Second",
+  "room_name": "Training and Placement Cell",
+  "type": "admin",
+  "latitude": 26.138131,
+  "longitude": 78.206699
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368815"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Deputy Registrar Office",
+  "room_no": 101,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368816"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Deputy Registrar Office",
+  "room_no": 105,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368817"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "CFAO Room",
+  "room_no": 103,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368818"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Deputy Registrar Room",
+  "room_no": 104,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368819"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Accounts Office",
+  "room_no": 102,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536881a"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Accounts Office",
+  "room_no": 116,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536881b"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Accounts Office",
+  "room_no": 117,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536881c"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Toilet (Transgender)",
+  "room_no": 106,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536881d"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Panel Room (Electrical)",
+  "room_no": 107,
+  "type": "utility",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536881e"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Male Washroom",
+  "room_no": 108,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536881f"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Female Washroom",
+  "room_no": 109,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368820"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Store Room",
+  "room_no": 110,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368821"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Classroom (ENG)",
+  "room_no": 111,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368822"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Classroom (ENG)",
+  "room_no": 112,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368823"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Classroom (ENG)",
+  "room_no": 113,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368824"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Classroom (Pharmacy)",
+  "room_no": 114,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368825"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Classroom (Pharmacy)",
+  "room_no": 115,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368826"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Classroom (Pharmacy)",
+  "room_no": 201,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368827"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Classroom (Pharmacy)",
+  "room_no": 206,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368828"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Lab (Pharmaceutics I)",
+  "room_no": 202,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368829"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Faculty Room (Pharmacy)",
+  "room_no": 203,
+  "type": "faculty",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536882a"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Faculty Room (Pharmacy)",
+  "room_no": 205,
+  "type": "faculty",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536882b"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Store Room (Pharmacy & Acid)",
+  "room_no": 204,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536882c"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Store Room (Pharmacy & Acid)",
+  "room_no": 207,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536882d"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Male Washroom",
+  "room_no": 208,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536882e"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Female Washroom",
+  "room_no": 209,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536882f"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Store Room III",
+  "room_no": 210,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368830"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Library (Pharmacy)",
+  "room_no": 211,
+  "type": "library",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368831"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Dean Office",
+  "room_no": 212,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368832"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Lab (Pharmaceutical Chemistry II)",
+  "room_no": 213,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368833"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Lab (Chemistry)",
+  "room_no": 214,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368834"
+  },
+  "block": "PC Ray Block",
+  "floor": "First",
+  "room_name": "Exam Room",
+  "room_no": 215,
+  "type": "exam",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368835"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Lab (Instrumentation Centre)",
+  "room_no": 301,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368836"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Classroom (Forensic Science)",
+  "room_no": 302,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368837"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Dean Office (SOS)",
+  "room_no": 303,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368838"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Faculty Room (SOS)",
+  "room_no": 304,
+  "type": "faculty",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368839"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Lab (Food Tech)",
+  "room_no": 305,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536883a"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Lab (Pharmaceutics II)",
+  "room_no": 306,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536883b"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Store Room",
+  "room_no": 307,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536883c"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Store Room",
+  "room_no": 310,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536883d"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Male Washroom",
+  "room_no": 308,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536883e"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Female Washroom",
+  "room_no": 309,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536883f"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Lab (Pharmacognosy I)",
+  "room_no": 311,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368840"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Lab (Zoology)",
+  "room_no": 312,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368841"
+  },
+  "block": "PC Ray Block",
+  "floor": "Second",
+  "room_name": "Coordinator Room",
+  "room_no": 313,
+  "type": "faculty",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368842"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Machine Room",
+  "room_no": 401,
+  "type": "utility",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368843"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Pharmacology Lab II",
+  "room_no": 402,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368844"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Office",
+  "room_no": 403,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368845"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Faculty Room",
+  "room_no": 404,
+  "type": "faculty",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368846"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Faculty Room",
+  "room_no": 405,
+  "type": "faculty",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368847"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Lab (Biotech)",
+  "room_no": 406,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368848"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Lab (Microbiology)",
+  "room_no": 407,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368849"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Store Room",
+  "room_no": 408,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536884a"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Store Room",
+  "room_no": 411,
+  "type": "store",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536884b"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Male Washroom",
+  "room_no": 409,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536884c"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Female Washroom",
+  "room_no": 410,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536884d"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 412,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536884e"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 413,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536884f"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 414,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368850"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 415,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368851"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 416,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368852"
+  },
+  "block": "PC Ray Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 417,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368853"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Office",
+  "room_no": 501,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368854"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Classroom (SOP)",
+  "room_no": 502,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368855"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Classroom (SOP)",
+  "room_no": 503,
+  "type": "classroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368856"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Lab (Pharmacy Practice I)",
+  "room_no": 505,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368857"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Lab (Pharmaceutics III)",
+  "room_no": 506,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368858"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Male Washroom",
+  "room_no": 508,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368859"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Female Washroom",
+  "room_no": 509,
+  "type": "washroom",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536885a"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Lab PG",
+  "room_no": 510,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536885b"
+  },
+  "block": "PC Ray Block",
+  "floor": "Fourth",
+  "room_name": "Lab PG",
+  "room_no": 511,
+  "type": "lab",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536885c"
+  },
+  "block": "LDV Block",
+  "floor": "Ground",
+  "room_name": "Counseling & Admissions",
+  "room_no": 110,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536885d"
+  },
+  "block": "LDV Block",
+  "floor": "Ground",
+  "room_name": "Counseling & Admissions",
+  "room_no": 111,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536885e"
+  },
+  "block": "LDV Block",
+  "floor": "Ground",
+  "room_name": "Waiting Lounge",
+  "room_no": 112,
+  "type": "facility",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536885f"
+  },
+  "block": "LDV Block",
+  "floor": "Ground",
+  "room_name": "Central Library",
+  "room_no": 113,
+  "type": "library",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368860"
+  },
+  "block": "LDV Block",
+  "floor": "Ground",
+  "room_name": "Computer Lab",
+  "room_no": 114,
+  "type": "lab",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368861"
+  },
+  "block": "LDV Block",
+  "floor": "Ground",
+  "room_name": "Auditorium",
+  "room_no": 101,
+  "type": "auditorium",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368862"
+  },
+  "block": "LDV Block",
+  "floor": "First",
+  "room_name": "Dean Architecture",
+  "room_no": 211,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368863"
+  },
+  "block": "LDV Block",
+  "floor": "First",
+  "room_name": "HOD Architecture",
+  "room_no": 209,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368864"
+  },
+  "block": "LDV Block",
+  "floor": "First",
+  "room_name": "Central Library",
+  "room_no": 212,
+  "type": "library",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368865"
+  },
+  "block": "LDV Block",
+  "floor": "Second",
+  "room_name": "Chancellor Office",
+  "room_no": 317,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368866"
+  },
+  "block": "LDV Block",
+  "floor": "Second",
+  "room_name": "Pro Chancellor Office",
+  "room_no": 318,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368867"
+  },
+  "block": "LDV Block",
+  "floor": "Second",
+  "room_name": "Dean Management",
+  "room_no": 309,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368868"
+  },
+  "block": "LDV Block",
+  "floor": "Second",
+  "room_name": "Pro Office",
+  "room_no": 310,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da95368869"
+  },
+  "block": "LDV Block",
+  "floor": "Second",
+  "room_name": "Graphic Design Cell",
+  "room_no": 312,
+  "type": "lab",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536886a"
+  },
+  "block": "LDV Block",
+  "floor": "Third",
+  "room_name": "Computer Lab",
+  "room_no": 409,
+  "type": "lab",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536886b"
+  },
+  "block": "LDV Block",
+  "floor": "Fourth",
+  "room_name": "Exam Section",
+  "room_no": 519,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536886c"
+  },
+  "block": "LDV Block",
+  "floor": "Fourth",
+  "room_name": "HOD Management",
+  "room_no": 520,
+  "type": "admin",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69beda607eac47da9536886d"
+  },
+  "block": "LDV Block",
+  "floor": "Fourth",
+  "room_name": "Girls Common Room",
+  "room_no": 515,
+  "type": "facility",
+  "latitude": 26.137877,
+  "longitude": 78.208098
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322a4"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Registrar Office",
+  "room_no": 102,
+  "type": "admin",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322a5"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Dean SOET",
+  "room_no": 103,
+  "type": "admin",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322a6"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Conference Room",
+  "room_no": 104,
+  "type": "admin",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322a7"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "HOD CSA",
+  "room_no": 109,
+  "type": "admin",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322a8"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Cyber Security Lab",
+  "room_no": 111,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322a9"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "OPD Health Centre",
+  "room_no": 121,
+  "type": "medical",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322aa"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 105,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ab"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 112,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ac"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 113,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ad"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 114,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ae"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 115,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322af"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 116,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b0"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 117,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b1"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Faculty Room",
+  "room_no": 122,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b2"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Classroom",
+  "room_no": 110,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b3"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Classroom",
+  "room_no": 123,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b4"
+  },
+  "block": "MG Block",
+  "floor": "Ground",
+  "room_name": "Washroom Male",
+  "room_no": 120,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b5"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Network Cell",
+  "room_no": 201,
+  "type": "admin",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b6"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Data Structure Lab",
+  "room_no": 202,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b7"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "OOP Lab",
+  "room_no": 203,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b8"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Girls Common Room",
+  "room_no": 208,
+  "type": "facility",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322b9"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Classroom",
+  "room_no": 204,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ba"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Classroom",
+  "room_no": 205,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322bb"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Classroom",
+  "room_no": 212,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322bc"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Classroom",
+  "room_no": 213,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322bd"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Classroom",
+  "room_no": 214,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322be"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Faculty Room",
+  "room_no": 206,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322bf"
+  },
+  "block": "MG Block",
+  "floor": "First",
+  "room_name": "Faculty Room",
+  "room_no": 211,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c0"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Network Lab",
+  "room_no": 301,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c1"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Web Tech Lab",
+  "room_no": 302,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c2"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Physics Lab",
+  "room_no": 305,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c3"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Exam Room",
+  "room_no": 310,
+  "type": "exam",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c4"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Classroom",
+  "room_no": 303,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c5"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Classroom",
+  "room_no": 306,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c6"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Classroom",
+  "room_no": 311,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c7"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Classroom",
+  "room_no": 312,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c8"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Classroom",
+  "room_no": 313,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322c9"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Faculty Room",
+  "room_no": 304,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ca"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Faculty Room",
+  "room_no": 307,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322cb"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Faculty Room",
+  "room_no": 309,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322cc"
+  },
+  "block": "MG Block",
+  "floor": "Second",
+  "room_name": "Male Washroom",
+  "room_no": 308,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322cd"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 401,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ce"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 402,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322cf"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 403,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d0"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 405,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d1"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 407,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d2"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 408,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d3"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 409,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d4"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Classroom",
+  "room_no": 410,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d5"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Faculty Room",
+  "room_no": 404,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d6"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Faculty Room",
+  "room_no": 406,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d7"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Faculty Room",
+  "room_no": 415,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d8"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Male Washroom",
+  "room_no": 411,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322d9"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Female Washroom",
+  "room_no": 413,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322da"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "Data Science Lab",
+  "room_no": 417,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322db"
+  },
+  "block": "MG Block",
+  "floor": "Third",
+  "room_name": "AI Lab",
+  "room_no": 418,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322dc"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Classroom",
+  "room_no": 501,
+  "type": "classroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322dd"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Proposed AI Lab",
+  "room_no": 502,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322de"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "COE AI",
+  "room_no": 503,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322df"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Faculty Room",
+  "room_no": 504,
+  "type": "faculty",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e0"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Computer Centre",
+  "room_no": 505,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e1"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Seminar Hall",
+  "room_no": 506,
+  "type": "hall",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e2"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "General Office",
+  "room_no": 507,
+  "type": "admin",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e3"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Female Washroom",
+  "room_no": 508,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e4"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Female Washroom",
+  "room_no": 509,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e5"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Male Washroom",
+  "room_no": 510,
+  "type": "washroom",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e6"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "DBMS Lab",
+  "room_no": 512,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e7"
+  },
+  "block": "MG Block",
+  "floor": "Fourth",
+  "room_name": "Software Engineering Lab",
+  "room_no": 513,
+  "type": "lab",
+  "latitude": 26.138246,
+  "longitude": 78.207349
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e8"
+  },
+  "block": "KB Block",
+  "floor": "Ground",
+  "room_name": "Mechanics Lab",
+  "room_no": 101,
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322e9"
+  },
+  "block": "KB Block",
+  "floor": "Ground",
+  "room_name": "Highway Engineering Lab",
+  "room_no": 103,
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ea"
+  },
+  "block": "KB Block",
+  "floor": "Ground",
+  "room_name": "Manufacturing Lab",
+  "room_no": 105,
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322eb"
+  },
+  "block": "KB Block",
+  "floor": "Ground",
+  "room_name": "Workshop",
+  "room_no": 106,
+  "type": "lab",
+  "latitude": 26.138588,
+  "longitude": 78.207631
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ec"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Deputy Registrar",
+  "room_no": 104,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+},
+{
+  "_id": {
+    "$oid": "69bfd030da29e826241322ed"
+  },
+  "block": "PC Ray Block",
+  "floor": "Ground",
+  "room_name": "Accounts Office",
+  "room_no": 116,
+  "type": "admin",
+  "latitude": 26.137514,
+  "longitude": 78.207305
+}]
