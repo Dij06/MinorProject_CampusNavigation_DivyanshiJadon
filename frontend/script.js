@@ -1,13 +1,15 @@
+// Determine API Base URL dynamically
+const API_BASE = window.location.protocol.startsWith("http") ? "/api" : "http://localhost:7000/api";
+
 // ================= USER =================
 document.addEventListener("DOMContentLoaded", function() {
     const modal = document.getElementById("welcomeModal");
     const startBtn = document.getElementById("startBtn");
 
     // 1. Check if user exists. 
-
     if (localStorage.getItem("campus_user_name")) {
         console.log("User already exists in LocalStorage. Skipping DB save.");
-        modal.style.display = "none";
+        if (modal) modal.style.display = "none";
         return; 
     }
 
@@ -19,8 +21,18 @@ document.addEventListener("DOMContentLoaded", function() {
             const role = document.getElementById("userRole").value;
 
             if (name && role) {
-                // Send to MongoDB
-                fetch("http://localhost:7000/api/users", {
+                // Save locally first so user is never blocked
+                localStorage.setItem("campus_user_name", name);
+                localStorage.setItem("campus_user_role", role);
+                
+                // UI Transitions
+                if (modal) {
+                    modal.style.opacity = "0";
+                    setTimeout(() => modal.style.display = "none", 500);
+                }
+
+                // Send to MongoDB in background
+                fetch(`${API_BASE}/users`, {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ name: name, role: role })
@@ -28,24 +40,14 @@ document.addEventListener("DOMContentLoaded", function() {
                 .then(res => res.json())
                 .then(data => {
                     console.log("Database Sync:", data.message);
-                    
-                    // Save to local 
-                    localStorage.setItem("campus_user_name", name);
-                    localStorage.setItem("campus_user_role", role);
-                    
-                    // UI Transitions
-                    modal.style.opacity = "0";
-                    setTimeout(() => modal.style.display = "none", 500);
-                    
-                    if (typeof voiceEnabled !== 'undefined' && voiceEnabled) {
-                        speak(`Hello ${name}, welcome to the campus.`);
-                    }
                 })
                 .catch(err => {
-                    console.error("Database Error:", err);
-                    alert("Could not connect to server. Is your backend running?");
+                    console.warn("Database Sync Note (proceeding offline):", err);
                 });
 
+                if (typeof voiceEnabled !== 'undefined' && voiceEnabled) {
+                    speak(`Hello ${name}, welcome to the campus.`);
+                }
             } else {
                 alert("Please fill in all details!");
             }
@@ -58,6 +60,7 @@ const map = L.map('map').setView([26.138246, 78.207349], 16);
 
 L.tileLayer('https://{s}.google.com/vt/lyrs=s&x={x}&y={y}&z={z}', {
   maxZoom: 20,
+
   subdomains: ['mt0','mt1','mt2','mt3'],
   attribution: '© Google'
 }).addTo(map);
@@ -203,13 +206,13 @@ if (navigator.geolocation) {
 }
 
 // ================= FETCH DATA =================
-fetch("http://localhost:7000/api/locations")
+fetch(`${API_BASE}/locations`)
   .then(res => res.json())
   .then(data => {
 
-    allLocations = data;
+    allLocations = Array.isArray(data) ? data : [];
 
-    data.forEach(loc => {
+    allLocations.forEach(loc => {
 
       if (
         loc.latitude != null &&
@@ -249,17 +252,25 @@ fetch("http://localhost:7000/api/locations")
 
     });
 
+  })
+  .catch(err => {
+    console.error("Could not fetch locations:", err);
   });
 
 // ================= NAVIGATION =================
 function navigateTo(lat, lng) {
 
-  if (!userLocation) {
-  alert("📍 Waiting for your location... Please wait.");
-  return;
-}
+  // If live GPS is not yet acquired, fall back to Main Gate
+  let start = userLocation;
+  if (!start) {
+    if (gateMarker) {
+      start = gateMarker.getLatLng();
+    } else {
+      start = L.latLng(26.137214, 78.212573); // Main Gate default coordinates
+    }
+    console.info("GPS not active. Starting route from University Main Gate.");
+  }
 
-const start = userLocation;
 
   destinationLatLng = L.latLng(lat, lng);
 
