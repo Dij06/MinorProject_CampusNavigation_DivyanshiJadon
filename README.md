@@ -1,15 +1,26 @@
 # Campus Navigation System
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Campus_Navigation-brightgreen?style=for-the-badge&logo=vercel)](https://campus-navigation-appdiv.vercel.app/)
+
+## Live Application
+You can access and explore the live web app here:
+ **[Campus Navigation Live App](https://campus-navigation-appdiv.vercel.app/)**
+
+---
+
 ## Project Overview
 
-This project is a Campus Navigation System that provides backend APIs along with a basic frontend interface to manage and explore campus locations. It allows users to store, retrieve, and search location data efficiently within a campus environment.
+This project is a Campus Navigation System that provides backend APIs along with an interactive frontend interface to manage, explore, and navigate campus locations in real-time. It allows users to search rooms, labs, and buildings, view turn-by-turn routes with voice navigation, and find their way around campus easily.
 
 ## Features
 
-* Manage campus locations (add, view, search)
-* User-related API handling
-* Structured backend using routes and models
-* Simple frontend interface for interaction
+* **Live Interactive Map**: Powered by Leaflet & OpenStreetMap
+* **Multi-Modal Navigation**: Real-time GPS location tracking, turn-by-turn routing (OSRM), and voice assistant guidance
+* **Smart Campus Search**: Quick search and auto-suggestions across blocks, room numbers, and facilities
+* **Multi-Level Guidance**: Context-aware floor guidance (ground, 1st, 2nd, 3rd, 4th floors)
+* **User Session Management**: Roles for Students, Faculty, and Visitors
+* **Cloud Database**: Powered by MongoDB Atlas
+
 
 ## Technologies Used
 
@@ -123,13 +134,18 @@ frontend/index.html
 
 ## Database Setup
 
-Sample data is provided in:
+Sample data is provided in: `data/locations.json`
 
-data/locations.json
+To automatically seed the database (local or MongoDB Atlas via `.env`):
+```bash
+npm run seed
+```
 
-To import the data into MongoDB:
-
+Alternatively, to import directly via MongoDB CLI:
+```bash
 mongoimport --uri="mongodb://127.0.0.1:27017/campus_navigation" --collection=locations --file=data/locations.json --jsonArray
+```
+
 
 ## Important Notes
 
