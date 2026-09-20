@@ -14,7 +14,49 @@ const userRoutes = require("./routes/userRoutes");
 
 const app = express();
 
-app.use(cors());
+// CORS Configuration: Restrict allowed origins
+const allowedOrigins = [
+  "http://localhost:7000",
+  "http://127.0.0.1:7000",
+  "http://localhost:3000",
+  "http://localhost:5173",
+  "http://127.0.0.1:5500",
+  ...(process.env.ALLOWED_ORIGINS ? process.env.ALLOWED_ORIGINS.split(",").map(o => o.trim()) : [])
+];
+
+const corsOptions = {
+  origin: function (origin, callback) {
+    // 1. Allow requests with no origin (mobile apps, Postman, same-origin fetch)
+    if (!origin) return callback(null, true);
+
+    // 2. Allow if origin is explicitly in allowed list
+    if (allowedOrigins.includes(origin)) return callback(null, true);
+
+    try {
+      const { hostname } = new URL(origin);
+
+      // 3. Allow local development (localhost / 127.0.0.1)
+      if (hostname === "localhost" || hostname === "127.0.0.1") {
+        return callback(null, true);
+      }
+
+      // 4. Allow any Vercel deployment domain (*.vercel.app)
+      if (hostname.endsWith(".vercel.app") || hostname === "vercel.app") {
+        return callback(null, true);
+      }
+    } catch (err) {
+      // Invalid URL format
+    }
+
+    // 5. Disallow any other unauthorized external origin
+    return callback(null, false);
+  },
+  credentials: true,
+  methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"]
+};
+
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Serve static frontend files
