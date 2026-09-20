@@ -14,4 +14,4 @@ const locationSchema = new mongoose.Schema({
   description: String
 }, { strict: false });
 
-module.exports = mongoose.model("Location", locationSchema);
+module.exports = mongoose.models.Location || mongoose.model("Location", locationSchema);

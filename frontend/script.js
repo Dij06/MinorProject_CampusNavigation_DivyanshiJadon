@@ -121,18 +121,18 @@ function isGroundFloor(floor) {
 
 // ================= SMOOTH LOCATION =================
 function smoothPosition(newLatLng) {
-  if (!lastLatLng) {
-    lastLatLng = newLatLng;
-    return newLatLng;
-  }
+  if (!lastLatLng) {
+    lastLatLng = newLatLng;
+    return newLatLng;
+  }
 
-  const smoothed = L.latLng(
-    lastLatLng.lat + (newLatLng.lat - lastLatLng.lat) * 0.5,
-    lastLatLng.lng + (newLatLng.lng - lastLatLng.lng) * 0.5
-  );
+  const smoothed = L.latLng(
+    lastLatLng.lat + (newLatLng.lat - lastLatLng.lat) * 0.5,
+    lastLatLng.lng + (newLatLng.lng - lastLatLng.lng) * 0.5
+  );
 
-  lastLatLng = smoothed;
-  return smoothed;
+  lastLatLng = smoothed;
+  return smoothed;
 }
 
 // ================= REAL-TIME USER LOCATION =================
